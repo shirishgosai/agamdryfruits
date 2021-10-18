@@ -1,0 +1,4 @@
+JKS : D:\Agamdryfruits\Data File\jkfile.jks
+Pass: Ankit@11
+Alias: key0
+F_name : key0

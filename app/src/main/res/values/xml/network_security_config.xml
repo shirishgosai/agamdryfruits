@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config xmlns:tools="http://schemas.android.com/tools">
+<domain-config>
+    <domain includeSubdomains="true">18.216.255.138</domain>
+    <domain includeSubdomains="true">app.petsforever.io</domain>
+    <domain includeSubdomains="true">petsforever.io</domain>
+    <domain includeSubdomains="true">diestechnology.com.au</domain>-->
+
+   <!-- <pin-set>
+        <pin digest="SHA-256"
+            tools:ignore="NetworkSecurityConfig">jQJTbIh0grw0/1TkHSumWb+Fs0Ggogr621gT3PvPKG0=</pin>
+    </pin-set>-->
+    <!-- <trust-anchors>
+        <certificates src="@raw/my_ca"/>
+    </trust-anchors>-->
+
+</domain-config>
+</network-security-config>

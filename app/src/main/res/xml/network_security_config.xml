@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config xmlns:tools="http://schemas.android.com/tools">
+<domain-config>
+    <domain includeSubdomains="true">agamdryfruits.com</domain>
+
+
+ <pin-set>
+        <pin digest="SHA-256"
+            tools:ignore="NetworkSecurityConfig">grX4Ta9HpZx6tSHkmCrvpApTQGo67CYDnvprLg5yRME=</pin>
+    </pin-set>
+    <!-- <trust-anchors>
+        <certificates src="@raw/my_ca"/>
+    </trust-anchors>-->
+
+</domain-config>
+</network-security-config>
